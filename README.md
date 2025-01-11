@@ -1,4 +1,4 @@
-Risk Assessment with AI and OpenFAIR
+#  Risk Assessment with AI and OpenFAIR
 
 ## Overview
 This project demonstrates the integration of **AI-based risk prediction** with the **OpenFAIR framework** to provide a comprehensive risk assessment solution. The goal is to predict risk levels (e.g., Low, Medium, High) using machine learning and then use the OpenFAIR framework to quantify and analyze the predicted risks.
